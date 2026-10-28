@@ -1,6 +1,8 @@
 ### Hi, I'm Radomir
 
-I make apps in the Netherlands, and right now most of my time goes into AgenTV.
+I'm a Tech Lead at [@nearform](https://github.com/nearform), where I consult for the Government of Ireland on digital identity and the EU Digital Identity Wallet, and work with other clients on enterprise software.
+
+In my own time, I'm building AgenTV.
 
 <a href="https://github.com/radomird/agentv-os">
   <picture>
