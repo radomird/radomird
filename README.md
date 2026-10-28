@@ -2,7 +2,7 @@
 
 I'm a Tech Lead at [@nearform](https://github.com/nearform), where I consult for the Government of Ireland on digital identity and the EU Digital Identity Wallet, and work with other clients on enterprise software.
 
-In my own time, I'm building AgenTV.
+Besides that, I work as an independent developer and consultant at [Indie AI Labs](https://indieailabs.com), where I build things and try out ideas. The latest are [StoreParity](https://storeparity.com), a Mac app that prices your app fairly in every App Store country, and AgenTV.
 
 <a href="https://github.com/radomird/agentv-os">
   <picture>
@@ -22,4 +22,4 @@ It's the OS for a little box under your TV, a bit like an Apple TV you own all t
 - [agentv-apps](https://github.com/radomird/agentv-apps): the official apps and the signed app index
 - [agentv-pkgs](https://github.com/radomird/agentv-pkgs): the signed packages a box updates from
 
-I also make indie apps at [Indie AI Labs](https://indieailabs.com). I'm [@radomir_3](https://x.com/radomir_3) on X.
+I'm [@radomir_3](https://x.com/radomir_3) on X.
