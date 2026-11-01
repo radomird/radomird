@@ -22,4 +22,6 @@ It's the OS for a little box under your TV, a bit like an Apple TV you own all t
 - [agentv-apps](https://github.com/radomird/agentv-apps): the official apps and the signed app index
 - [agentv-pkgs](https://github.com/radomird/agentv-pkgs): the signed packages a box updates from
 
+If AgenTV is useful to you, you can [chip in through Stripe](https://buy.stripe.com/7sY4gzeMjdZs1oo7Wbgfu00).
+
 I'm [@radomir_3](https://x.com/radomir_3) on X.
