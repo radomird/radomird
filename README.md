@@ -1,8 +1,8 @@
 ### Hi, I'm Radomir
 
-I'm a Tech Lead at [@nearform](https://github.com/nearform), where I consult for the Government of Ireland on digital identity and the EU Digital Identity Wallet, and work with other clients on enterprise software.
+I'm a Tech Lead at [@nearform](https://github.com/nearform). Right now I'm consulting for the Government of Ireland on digital identity and the EU Digital Identity Wallet.
 
-Besides that, I work as an independent developer and consultant at [Indie AI Labs](https://indieailabs.com), where I build things and try out ideas. The latest are [StoreParity](https://storeparity.com), a Mac app that prices your app fairly in every App Store country, and AgenTV.
+I also own [Indie AI Labs](https://indieailabs.com), where I build my side projects next to my regular consultancy work. The latest two are [StoreParity](https://storeparity.com), a Mac app that prices your app fairly in every App Store country, and AgenTV.
 
 <a href="https://github.com/radomird/agentv-os">
   <picture>
@@ -13,14 +13,14 @@ Besides that, I work as an independent developer and consultant at [Indie AI Lab
 
 **[AgenTV](https://github.com/radomird/agentv-os): the world's first open-source agentic TV OS. Powered by [Omarchy](https://omarchy.org).**
 
-It's the OS for a little box under your TV, a bit like an Apple TV you own all the way down, and it works with any TV that has HDMI. Your phone is the remote, everyone in the house gets a profile, and soon its own agent will build the apps it's missing. 0.1.3 is out as a pre-release for the Intel NUC.
+It's the OS for a little box under your TV. Think of an Apple TV you own all the way down, that works with any TV that has HDMI. Your phone is the remote, everyone in the house gets a profile, and soon its own agent will build the apps it's missing. 0.1.3 is out now as a pre-release for the Intel NUC.
 
 <a href="https://github.com/radomird/agentv-os"><img alt="AgenTV's home screen" src="agentv-home.jpg"></a>
 
 - [agentv-os](https://github.com/radomird/agentv-os): the TV OS
 - [agentv-iso](https://github.com/radomird/agentv-iso): the installer
-- [agentv-apps](https://github.com/radomird/agentv-apps): the official apps and the signed app index
-- [agentv-pkgs](https://github.com/radomird/agentv-pkgs): the signed packages a box updates from
+- [agentv-apps](https://github.com/radomird/agentv-apps): the apps that come with it
+- [agentv-pkgs](https://github.com/radomird/agentv-pkgs): the packages your box updates from
 
 If AgenTV is useful to you, you can [chip in through Stripe](https://buy.stripe.com/7sY4gzeMjdZs1oo7Wbgfu00).
 
