@@ -1,8 +1,8 @@
 ### Hi, I'm Radomir
 
-I'm a Tech Lead at [@nearform](https://github.com/nearform). Right now I'm consulting for the Government of Ireland on digital identity and the EU Digital Identity Wallet, and I work with other clients on enterprise software too.
+I'm a Tech Lead at [@nearform](https://github.com/nearform). Right now I'm consulting for the Government of Ireland on digital identity and the EU Digital Identity Wallet.
 
-I'm also an independent developer and consultant at [Indie AI Labs](https://indieailabs.com), where I build my own things and try out ideas. The latest two are [StoreParity](https://storeparity.com), a Mac app that prices your app fairly in every App Store country, and AgenTV.
+I also own [Indie AI Labs](https://indieailabs.com), where I build my side projects next to my regular consultancy work. The latest two are [StoreParity](https://storeparity.com), a Mac app that prices your app fairly in every App Store country, and AgenTV.
 
 <a href="https://github.com/radomird/agentv-os">
   <picture>
